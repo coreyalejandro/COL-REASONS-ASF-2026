@@ -63,3 +63,14 @@
 **Status:** ✅ EXECUTION READY
 **Recommendation:** Begin parallel execution of Modules 1 and 2 immediately.
 **Confidence:** HIGH - Governance is robust and feedback has been fully incorporated.
+
+---
+
+## Codex Actions (Latest)
+
+- ✅ Merged `master` into `main` with `--allow-unrelated-histories` using a clean worktree
+- ✅ Pushed `main` to GitHub (`origin/main`)
+- ✅ Removed temporary worktree after push
+- ✅ Updated ITAYN README to correct default principles and line counts
+- ✅ Removed inaccurate agent feedback docs at repo root
+- ✅ Cleaned unused variables/imports in ITAYN core files

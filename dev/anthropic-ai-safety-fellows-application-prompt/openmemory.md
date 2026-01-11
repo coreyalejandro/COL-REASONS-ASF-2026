@@ -39,3 +39,9 @@ Memory = accumulated understanding of codebase + user preferences.
 - **HUI/UICare:** Multiple iterations exist; need to settle on one final version.
 - **The Cursor:** No formal repo yet; exists as a script in Google Drive.
 - **Renaming:** Ensure `kiro-hackathon-mad-mall` is correctly rebranded to `MADmall`.
+
+## ✅ Codex Task List
+
+1. Get ITAYN MVP working as specified in repo docs (confirm MVP definition and gaps).
+2. Assess whether Anthropic provides a Constitutional AI UI (answer + citations if any).
+3. Define UI + Colab delivery path after MVP validation.
